@@ -1,4 +1,10 @@
+# Objective- The objective of this analysis is to develop a ARIMA model for energy demand forecasting. The model shall predict demand having data of the daily demand the days before.¶
+# I have used Python programming (Jupyter notebook). Data source and python code is provided within this document to ensure fully reproducible research.
 
+# Data link- C:\Users\Amit\Dropbox\Dataset\Energydata_spain.csv
+# Data Description-Data file captures daily energy demand in Spain(in GWh) between 2004 and 2012.
+
+# Plot out your time series variable(s) separately. Tell me using your Mark I eyeball whether or not you think the time series data set is stationary in terms of constant mean and also constant variance.¶
 # coding: utf-8
 
 # In[1]:
